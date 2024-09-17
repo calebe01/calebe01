@@ -21,12 +21,9 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -->          
 </div><br>
 
-<h2>GitHub Stats</h2>
-
-<div align="center" style="display: flex; justify-content: center;">
+<div align="left" style="display: flex; justify-content: center;">
   <a href="https://github.com/calebe01">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=calebe01&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe01&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe01&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
 
