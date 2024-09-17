@@ -2,8 +2,6 @@
 
 
 <h2>Technologies and tools:</h2>
-
-  <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe01&layout=compact&langs_count=7&theme=one_dark_pro"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +26,8 @@
 <div align="left" style="display: flex; justify-content: center;">
   <a href="https://github.com/calebe01">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=calebe01&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe01&layout=compact&langs_count=7&theme=one_dark_pro"/>
+
   </a>
 </div>
 
