@@ -29,12 +29,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay" alt="sumansauravmay" /></p>
 
-## 🏆 GitHub Trophies
-<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="Trophy" /></a> </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-github.txt
-Exibindo github.txt…
